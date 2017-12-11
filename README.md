@@ -1,4 +1,7 @@
 [REVIEW RESULT](https://review.udacity.com/#!/reviews/613057)
+
+[A good excise for logic statement](https://github.com/norvig/pytudes/blob/master/ipynb/PropositionalLogic.ipynb)
+
 # Implement a Planning Search
 
 ## Synopsis
